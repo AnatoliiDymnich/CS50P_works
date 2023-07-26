@@ -1,3 +1,5 @@
+"""program prompts the user for their name and outputs, using fpdf2, a CS50 shirtificate in a file called shirtificate.pdf"""
+
 from fpdf import FPDF
 
 
